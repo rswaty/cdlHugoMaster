@@ -6,7 +6,7 @@ user_groups: ["Members"]
 
 
 # Role/position/tagline
-role: GIS analyst
+role: GIS Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
