@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's in Environmental Studies & French
+  - course: Bachelor's in Environmental Science & French
     institution: Northern Michigan University
     year: 
 
