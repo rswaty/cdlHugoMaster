@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Phelps | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/keith-phelps/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/keith-phelps/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keith Phelps</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/keith-phelps/avatar_hubf8eb007e3c4f92c24028fc102266b76_121013_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Keith Phelps</title>
+      <link>https://cdl-testing-site.netlify.app/author/keith-phelps/</link>
+    </image>
+    
+  </channel>
+</rss>

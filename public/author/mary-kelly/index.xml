@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Kelly | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/mary-kelly/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/mary-kelly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mary Kelly</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/mary-kelly/avatar_hu583109c3f49484f7c67a0ea73040208b_933139_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mary Kelly</title>
+      <link>https://cdl-testing-site.netlify.app/author/mary-kelly/</link>
+    </image>
+    
+  </channel>
+</rss>

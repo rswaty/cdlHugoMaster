@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/project/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://cdl-testing-site.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>LANDFIRE-Powered Landscape Assessment Guidance</title>
+      <link>https://cdl-testing-site.netlify.app/project/fsc/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cdl-testing-site.netlify.app/project/fsc/</guid>
+      <description>&lt;p&gt;Assessing the condition of ecosystems and disturbance regimes across large landscapes is challenging, but necessary.  In an attempt to ease the entry to this work, particularly for forest managers who are aiming for Forest Stewardship Council (&lt;a href=&#34;https://fsc.org/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fsc.org/en&lt;/a&gt;) certification we are developing and testing tutorials that would assist in answering some key ecosystem questions such as:
+Which ecosystems have been most changed/converted between historical and current time periods?
+What where the historical disturbance regimes for a landscape
+Which structural stages are over/underrepresented on the landscape?&lt;/p&gt;
+&lt;p&gt;Answering these and other similar questions is possible for lands in the United States with LANDFIRE data (&lt;a href=&#34;http://www.landfire.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.landfire.gov&lt;/a&gt;), but is not always straightforward-we hope to assist with that.&lt;/p&gt;
+&lt;p&gt;CDL members include: Keith Phelps &amp;amp; Stacey Marion&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

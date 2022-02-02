@@ -30,7 +30,7 @@ title: CDL Alumni
 
 - *Beth Teeters* 
 
-- *Myles Wallmaa* 
+- *Myles Walimaa* 
 
 - *Anna Wright* 
 

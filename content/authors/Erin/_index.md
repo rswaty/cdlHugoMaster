@@ -55,7 +55,7 @@ email: "ematula@nmu.edu "
 highlight_name: true
 ---
 
-Erin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDfire data and its applications across the country. 
+Erin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDFIRE data and its applications across the country. 
 
 
 

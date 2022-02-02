@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gavin White | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/gavin-white/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/gavin-white/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gavin White</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/gavin-white/avatar_huaeeba512565ba2bd5299f1c9de752b11_965966_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gavin White</title>
+      <link>https://cdl-testing-site.netlify.app/author/gavin-white/</link>
+    </image>
+    
+  </channel>
+</rss>

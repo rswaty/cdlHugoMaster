@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel Meier | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/rachel-meier/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/rachel-meier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel Meier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/rachel-meier/avatar_hu368e56968951fc21af401bd5320bab98_300652_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rachel Meier</title>
+      <link>https://cdl-testing-site.netlify.app/author/rachel-meier/</link>
+    </image>
+    
+  </channel>
+</rss>

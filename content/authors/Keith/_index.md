@@ -55,6 +55,8 @@ email: "kpphelp@clemson.edu"
 highlight_name: true
 ---
 
+Keith Phelps was born in St. Paul, MN and gained an appreciation for forests growing up exploring the banks of the Mississippi River and canoeing in the Boundary Waters. After graduating from UW Madison in History and Environmental Studies, Keith worked in the private sector of ecological restoration in the greater Madison and Driftless Region of WI. Here he gained an appreciation for plant conservation, prescribed fire, invasive species management, and urban restoration projects. After working in the UW-Arboretum Longnecker Horticultural gardens, Keith received his MS in Forest Resources at Clemson University. His research focused on developing GIS land suitability models for mechanized timber harvesting and prescribed fire restoration in the Southern Blue Ridge Escarpment of SC. Keith now works in ecological restoration and wetland delineation/determination in Mt. Horeb, WI and continues to research forest restoration and management with GIS applications. In his free time, Keith enjoys running, making music, writing poetry, and going for hikes in the Baraboo Hills of WI. 
+
 
 
 

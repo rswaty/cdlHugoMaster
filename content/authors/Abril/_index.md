@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Bachelor's in Environmental Science
-    institution: Northern Michigan University
+    institution: St. Mary's University
     year: 
 
 
@@ -49,13 +49,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ematula@nmu.edu "
+email: " "
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Erin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDfire data and its applications across the country. 
+Abril Belgara Andrew was raised in Phoenix AZ, but was born in Nuevo Casas Grande, Chihuahua, Mexico. First generation student who started off with a Biochemistry degree but she changed to Environmental Science degree. In her undergrad, she had a professor named Dr, Turner who loved Geology because of him, she was able to discover her love for the environment. Inspired by him and her other professor, she was able to enjoy all the cool things with being an Environmental Science major. Enjoys being out in the field gathering data but also likes doing lab work as well. Currently works in a Molecular laboratory, wants to take part in more environment science related projects and do more field work. In her free time Abril likes  hiking, being outdoors, traveling, reading, watching kdramas, and trying new foods 
 
 
 

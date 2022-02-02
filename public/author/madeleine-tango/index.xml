@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madeleine Tango | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/madeleine-tango/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/madeleine-tango/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madeleine Tango</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/madeleine-tango/avatar_hu8c02afd3b747c75bfc9c69e795c3e55c_1183244_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Madeleine Tango</title>
+      <link>https://cdl-testing-site.netlify.app/author/madeleine-tango/</link>
+    </image>
+    
+  </channel>
+</rss>
