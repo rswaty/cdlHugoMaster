@@ -27,6 +27,8 @@ title: CDL Alumni
 
 - *Laura Roncal*
 
+- {{< staticref "author/laura-slavsky/" >}}Laura Slavsky{{< /staticref >}}
+
 - {{< staticref "author/madeleine-tango/" >}}Maddie Tango{{< /staticref >}}
 
 - *Beth Teeters* 
