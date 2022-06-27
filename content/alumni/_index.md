@@ -5,7 +5,6 @@ title: CDL Alumni
 ---
 
 
-
 - *Celeste Basken*
 
 - *Cassie Begert* 
@@ -28,9 +27,12 @@ title: CDL Alumni
 
 - *Laura Roncal*
 
+- {{< staticref "author/madeleine-tango/" >}}Maddie Tango{{< /staticref >}}
+
 - *Beth Teeters* 
 
 - *Myles Walimaa* 
 
 - *Anna Wright* 
+
 

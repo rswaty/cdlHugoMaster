@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Madeleine Tango
+user_groups: ["Members"]
 
 # Is this the primary user of the site?
 superuser: false
