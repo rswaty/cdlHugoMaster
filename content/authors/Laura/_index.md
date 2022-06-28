@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Laura Slavsky
-user_groups: ["Co-Leads"]
+user_groups: 
 
 # Is this the primary user of the site?
 superuser: false
