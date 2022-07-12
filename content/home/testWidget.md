@@ -17,4 +17,4 @@ coding, creating, and conserving (and a little cartography)
 ---
 
 
-<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/carousel/carousel.html"></iframe>
+<iframe seamless = "" width = "100%", height = "650" class="shortcode-iframe" src="/carousel/carousel.html"></iframe>
