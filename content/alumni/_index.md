@@ -35,6 +35,8 @@ title: CDL Alumni
 
 - *Myles Walimaa* 
 
+- {{< staticref "author/gavin-white/" >}}Gavin White{{< /staticref >}}
+
 - *Anna Wright* 
 
 

@@ -57,7 +57,10 @@ email: ""
 highlight_name: true
 ---
 
-Mary was raised in Plymouth, MI, about twenty minutes east of Ann Arbor. She currently attends Northern Michigan University, where she studies Environmental Science and French. At NMU, Mary works as a research assistant in a GIS lab and tutors for French. She is new to the Conservation Data Lab and is excited to learn more about conservation data analysis and how to effectively communicate it to the public. In her free time, Mary enjoys getting her hands dirty at the NMU Hoop House, reading, and exploring the many miles of trails that Marquette has to offer.
+Here at the CDL, we consider Mary Kelly to be the “unstoppable force.” She’s a junior at Northern Michigan  University (NMU) double-majoring in environmental science (with a concentration in natural resources) and French. Entering just her third year in college, Mary has already joined the NMU Student Leader Fellowship Program, worked as a Student Trainee for the USDOT Volpe National Transportation Systems Center, gained proficiency in ArcGIS Pro and R, and taken part in fieldwork for a conservation internship in Holly, Michigan. Her role in the CDL sees her mapping old growth forests in Oregon, looking at Biophysical Settings and historical tree data to determine which areas could have been classified as old growth if not for certain circumstances. That is all to say, her résumé is daunting. She attributes her inspiration to growing up in Michigan—being close to the Huron-Clinton Metroparks and taking day trips to Lake Huron as a child from which she would return home with buckets of rocks, many of which ended up in her mother’s garden. In fall 2022, she’ll start a new role as a volunteer intern at the NMU Food Pantry, and present a research project at the National Collegiate Honors Conference in Dallas, TX
+
+Of the CDL she has to say, “It’s the networking—they expose you to awesome people, provide career and life advice, and create a community of like-minded people who care for conservation.”
+
 
 
 

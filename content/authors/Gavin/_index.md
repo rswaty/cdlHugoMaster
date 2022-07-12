@@ -1,8 +1,12 @@
 ---
 # Display name
 title: Gavin White
+
+# Is this the primary user of the site?
 superuser: false
-user_groups: ["Members"]
+
+# Role/position/tagline
+role: Student
 
 
 # Role/position/tagline
