@@ -6,7 +6,7 @@ image:
   caption: CDL
   focal_point: Smart
   
-date: "2022-01-27T00:00:00Z"
+date: "2022-05-27T00:00:00Z"
 ---
 
 Assessing the condition of ecosystems and disturbance regimes across large landscapes is challenging, but necessary.  In an attempt to ease the entry to this work, particularly for forest managers who are aiming for Forest Stewardship Council (https://fsc.org/en) certification we are developing and testing tutorials that would assist in answering some key ecosystem questions such as:

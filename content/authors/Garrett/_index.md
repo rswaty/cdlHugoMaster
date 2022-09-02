@@ -2,7 +2,7 @@
 # Display name
 title: Garrett Knowlton (he/him)
 
-user_groups: ["Members"]
+user_groups: ["Mentors"]
 
 
 # Is this the primary user of the site?

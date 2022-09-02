@@ -6,7 +6,7 @@ image:
   caption: CDL
   focal_point: Smart
   
-date: "2022-01-27T00:00:00Z"
+date: "2022-06-210T00:00:00Z"
 ---
 
 Sam, a graduate student and teaching assistant in a wetlands course at Michigan Tech, has undertaken the project of providing detailed wetland maps for Minnesota, Wisconsin, and Michigan. Wetlands—lands transitional between terrestrial and aquatic systems (that is to say, wet-lands)—comprise around 40% of the Upper Peninsula (U.P.). They typically have a high water table, with water present on the surface or saturating the soil. The amount of water present, soil chemistry, and water flow play the most significant roles in a wetland’s classification—of which there are many, each with their own ecosystems and vegetation. Some have peat bogs and floating mats, while others are dominated by black ash and cedar trees—some are open plains, and some dense forests. 

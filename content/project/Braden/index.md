@@ -6,7 +6,7 @@ image:
   caption: CDL
   focal_point: Smart
   
-date: "2022-01-27T00:00:00Z"
+date: "2022-07-31T00:00:00Z"
 ---
 
 Braden is a copy writer, educator and intern with the CDL.  That is, he is not an ecologist.  That said, Braden jumped in fearlessly, embracing our lingo, geeky nature and odd thoughts on expressing ourselves.  I bet he is feeling a 'disturbance in the force' as I write, knowing I am sloppy with spelliiing, word choices and grammar.

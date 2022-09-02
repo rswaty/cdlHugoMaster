@@ -2,7 +2,7 @@
 # Display name
 title: Keith Phelps
 superuser: false
-user_groups: ["Members"]
+user_groups: ["Mentors"]
 
 
 # Role/position/tagline
