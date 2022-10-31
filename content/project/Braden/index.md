@@ -13,6 +13,6 @@ Braden is a copy writer, educator and intern with the CDL.  That is, he is not a
 
 As an undergraduate writing major Braden served as the editor-in-chief of the college literary magazine, tutored countless students in the use of semi-colons and much more, and immersed himself in books.  He told me stories of the underbelly of his home, Terra Haute, IN, of falling off a cliff then living to tell about it, of his mom a hospice nurse who exposed him to death and all that surrounds it.  
 
-When I invited Braden up to the extremely rural Upper Peninsula of Michigan where I live without a real plan of where to house or feed him, he didn't hesitate.  Quite the opposite-he rushed in.  He experienced black flies, mosquitoes, beach flies, hippies, a jig saw, the joys of flusing a toilet with water frum a bucket, and much more.  
+When I invited Braden up to the extremely rural Upper Peninsula of Michigan where I live without a real plan of where to house or feed him, he didn't hesitate.  Quite the opposite-he rushed in.  He experienced black flies, mosquitoes, beach flies, hippies, a jig saw, the joys of flushing a toilet with water from a bucket, and much more.  
 
 Braden updated many profiles and contributed our feature piece on wetlands mapping.  He has tons of notes from interviewing nearly everyone and we look forward to more of his wise words!

@@ -1,8 +1,6 @@
 ---
 # Display name
 title: Abril Belgara Andrew
-superuser: false
-user_groups: ["Members"]
 
 
 # Role/position/tagline
