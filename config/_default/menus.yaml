@@ -7,9 +7,6 @@ main:
   - name: People
     url: '#team'
     weight: 20
-  - name: Where We Work
-    url: '#testWidget'
-    weight: 10
   - name: DEI
     url: dei/
     weight: 30
