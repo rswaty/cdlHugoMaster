@@ -19,3 +19,7 @@ main:
   - name: Alumni
     url: alumni/
     weight: 50
+  - name: Updates
+    url: updates/
+    weight: 50
+  

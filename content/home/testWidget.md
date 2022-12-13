@@ -12,9 +12,9 @@ design:
 ---
 
 <p style="text-align: center;">
-coding, creating, and conserving (and a little cartography)
+coding, creating, and conserving
 
 ---
 
 
-<iframe seamless = "" width = "100%", height = "650" class="shortcode-iframe" src="/carousel/carousel.html"></iframe>
+<iframe seamless = "" width = "100%", height = "600" class="shortcode-iframe" src="/carousel/carousel.html"></iframe>
