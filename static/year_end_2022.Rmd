@@ -33,16 +33,32 @@ Members of the CDL were super productive, often contributing major efforts on to
 
 Major projects included:
 
+
+```{r fig-margin, echo=FALSE, fig.cap="Draft bivariate map made in R by Hannah Young", fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=TRUE}
+
+knitr::include_graphics("nc.JPG")
+```
 * Major progress on a project lead by [Hannah Young](https://conservationdatalab.org/author/hannah-young/) and [Mary Kelly](https://conservationdatalab.org/author/mary-kelly/) to identify areas in the United States where wildfire risk to water supplies could impact socially vulnerable people.  They are aiming for a peer-reviewed journal article.
 * [Dashboard](https://rswaty.github.io/carbonBlockGroups/dash.html#the-map) exploring the intersection of carbon and non-white populations for Georgia and the Carolinas.  Powered by [LANDFIRE](https://landfire.gov/) and carbon data from the [Center for Resilient Conservation Science](https://crcs.tnc.org/); implemented by [Maddie Tango](https://www.linkedin.com/in/madeleinetango/) and [Steven Montilla](https://www.linkedin.com/in/steven-montilla-172437150/), used by TNC's North Carolina program.
 * [Sam Kurkowski](https://conservationdatalab.org/author/sam-kurkowski/) processed and mapped LANDFIRE wetlands data for the Great Lakes to facilitate review and workshop discussions.  Sam has also reviewed dozens of documents for the LANDFIRE Review of Alaskan Biophysical Settings.
 * [Keith Phelps](https://www.linkedin.com/in/keith-phelps-5aa9921a2/) and [Stacey Marion](https://staceymarion.com/) produced this [LANDFIRE-powered guide](https://thenatureconservancy.github.io/landfire-guide/) to forest assessment.  
 * [Chris Eckerson](https://www.linkedin.com/in/chris-eckerson-4395b8161/) completed and delivered a comparison of TreeMap data ([Riley et al., 2021](https://www.firelab.org/project/treemap-tree-level-model-forests-united-states)) and carbon data from Williams et al., ([2021](https://daac.ornl.gov/CMS/guides/AGB_NEP_Disturbance_US_Forests.html)).  One of multiple products was [this](https://storymaps.arcgis.com/stories/72b5a732828c48d2b32148e42cc3325f) StoryMap.
+```{r fig-ak, echo=FALSE, fig.cap="BpS map for the Akiachak Village AK, by Lea Kemle", fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=TRUE}
+
+knitr::include_graphics("ak.JPG")
+```
 * [Lea Kemle](https://conservationdatalab.org/author/lea-kemle/) has developed and delivered a series of LANDFIRE-powered maps and a comparison of historical and current ecosystems to the Akiachak Village of Alaska
 * [Myles Walimaa](https://mwalimaa.github.io/portfolio/) developed and delivered a [dashboard](https://mwalimaa.github.io/michigan_ecosystems/) of Michigan's ecosystems, past and present to 'clients' at Michigan State Extension.
 * [Erin Matula](https://conservationdatalab.org/author/erin-matula/) completed an internship through the CDL and Northern Michigan University where she developed and presented a [dashboard](https://ematula3.github.io/VTFdash/webhost.html) of ecosystem conditions to the Vermont Chapter of The Nature Conservancy, and at the International Association for Landscape Ecology meetings,  and has processed and presented LANDFIRE data to Virgin Islands/Puerto Rico staff of TNC.
 * [Rhayna Lillie](https://conservationdatalab.org/author/rhayna-lillie/) completed an internship through the CDL and Northern Michigan University where she assessed LANDFIRE data for the Uncompahgre Region of the southwestern U.S., and presented her results to Jim Smith and Henry Bastion of LANDFIRE leadership. 
 * [Cassie Stitzman](https://conservationdatalab.org/author/cassie-stitzman/) with an assist from Myles Walimaa processed and delivered over 35 LANDFIRE datasets to USFWS/USFS partners in Mississippi. 
+
+
+```{r fig-or, echo=FALSE, fig.cap="Map of old growth surplus/deficit, by Mary Kelly", fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=TRUE}
+
+knitr::include_graphics("or.JPG")
+```
+
 * [Mary Kelly](https://conservationdatalab.org/author/mary-kelly/) completed an internship through the CDL and Northern Michigan University where she assessed old growth ecosystems past and present for the western slope of Oregon. 
 * Garrett White completed an internship through the CDL and Northern Michigan University where he assessed the vegetation conditions of the Driftless region of the central U.S.
 
