@@ -9,15 +9,15 @@ user_groups: ["Mentors"]
 superuser: false
 
 # Role/position/tagline
-role: Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: National Park Service, Climate Change Reponse Program
-  url: https://www.nps.gov/orgs/ccrp/index.htm
+- name: University of Wisconsin-Madison
+  url: https://turnerlab.ibio.wisc.edu/staff/knowlton-garrett/
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Garrett is currently working on climate adaptation planning with the National Park Service. He is interested in helping communities and landscapes adapt to a changing planet. 
+bio:  Garrett is currently a graduate student at the University of Wisconsin-Madison. He researches how climate change and fire will change forest ecosystems across the Northern Rockies. He is also interested in conservation planning, adaptation, and socio-ecological systems.
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,14 @@ interests:
 - Climate Adaptation
 - Conservation Planning
 - Bicycles
+- Watercrafts
+
 # Education to show in About widget
 education:
   courses:
+  - course: MS in Integrative Biology
+    institution: University of Wisconsin-Madison
+    year: Current
   - course: BS in Fisheries & Wildlife
     institution: Michigan State University
     year: 2020
