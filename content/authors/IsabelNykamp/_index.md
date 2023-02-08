@@ -1,36 +1,38 @@
 ---
 # Display name
-title: Erin Matula
+title: Isabel Nykamp
 superuser: false
-user_groups: ["Mentors"]
+user_groups: ["Members"]
 
 
 # Role/position/tagline
-role: Student Intern
+role: Lab Tech/Member
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Trent University & The Nature Conservancy
+- name: Calvin University
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Erin Matula
+bio: Isabel Nykamp ("Izzy")
 
 # Interests to show in About widget
 interests:
-- Macrophytes
-- Fish
-- Sediment Cores
-- Forestry
-- Drone Photography
+- Wetland conservation
+- GIS mapping and analysis
+- Drone photography
+- Restoration planning
+- Invasive species
+- Gardening
+- Aquatic plants
+- Kayaking
+- Folk music
 
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's in Environmental Science
-    institution: Northern Michigan University
+  - course: B.S. Calvin University 2022 with a Major in Environmental Health & Conservation, Minor in Geography
     year: 
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: ''
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -49,13 +51,19 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ematula@nmu.edu "
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Erin is a wild person born and raised in the middle of the woods whose upbringing fuels her inspiration for learning about the natural world around her. Currently, she is in her senior year of undergrad and making moves towards a graduate degree. With the Nature Conservancy, she has an internship exploring LANDFIRE data and its applications across the country.   Currently earning her Master's degree in wetland dynamics at Trent University.
+Isabel, also known as Izzy, was born and raised in Western Michigan. Growing up immersed in wooded habitats and surrounded by striking water bodies, she fell in love with Michigan's aquatic habitats. She graduated from Calvin University of Grand Rapids in December of 2022 with honors and now has hopes of pursuing a masters degree. In her free time, Izzy likes to explore new trails, knit, read, and get coffee with friends.  
+
+Learn more at https://www.linkedin.com/in/isabel-latvaitis-nykamp-5344b8201/
+
+
+
+
 
 
 
