@@ -2,7 +2,7 @@
 # Display name
 title: Matt Reschke
 superuser: false
-user_groups: ["Members"]
+user_groups: 
 
 
 # Role/position/tagline

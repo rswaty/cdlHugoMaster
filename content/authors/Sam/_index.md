@@ -6,15 +6,15 @@ user_groups: ["Members"]
 
 
 # Role/position/tagline
-role: Student
+role: Mentor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Michigan Tech University
-  url: 
+- name: Utah State University
+  url: 'http://www.karinkettenring.com/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sam Kurkowski
+bio: Wetlands and Restoration Lab Manager
 
 # Interests to show in About widget
 interests:
@@ -23,18 +23,18 @@ interests:
 - Peatlands
 - Wetland Restoration
 - Vernal Pools
-- Carbon Cycling
-- Conservation
-- Running/biking/hiking/skiing
+- Carbon cycling
+- Backcountry camping
+
 
 # Education to show in About widget
 education:
   courses:
-  - course:  MS in Applied Ecology  
-    institution: Michigan Tech
-    year: Expected 2023
-  - course: BS in Applied Ecology
-    institution: Michigan Tech
+  - course:  M.S. Applied Ecology
+    institution: Michigan Technological University
+    year: 2023
+  - course: B.S. Applied Ecology
+    institution: Michigan Technological University
     year: 2021
 
 # Social/Academic Networking
@@ -44,28 +44,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:srkurkow@mtu.edu'
 
-# Link to a PDF of your resume/CV from the About widget.
+# Link to a PDF of your resume/CV from the About widget. REMOVE "#" FOR ITEMS YOU WANT ME TO TRY.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "YOUR EMAIL ADDRESS IF YOU WANT"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Some know her as the Michigan Tech record holder in the 3000m steeplechase, or as a national competitor in collegiate cross-country 6Ks. For her role in the CDL, Sam prefers the official title “Student Volunteer .” Born in the Twin Cities area, Sam found herself in arm’s-reach of the immersive nature offered by the north central United States. She canoed the Boundary Waters, skied the 32 mile Birkebeiner, and along the way nursed an affinity for plants and their habitats. In high school, she was a member of the Conservation Corps of Minnesota. As an undergrad, she assisted a graduate student in analyzing soil and fire return intervals in peatlands across the Midwest. Sam has also worked with the Michigan Tech Research Institute to map vernal pools of Isle Royale National Park, during which she once excitingly found a newt. As a student volunteer for the CDL, she utilizes LANDFIRE data to map wetlands in the Great Lakes region. Currently, she’s a master’s student in applied ecology at Michigan Tech, where she’s also a TA for a wetlands course. Her hope is to continue working with peatlands going into her professional career, as she recognizes them to be vital contributors to the ecosystems they inhabit. 
-Of the CDL she has to say, “It’s a place to learn what you couldn’t in a classroom, and to find connections you’d never imagine having.”
+After wetlands captured my heart during my time at Michigan Tech, I have wanted to pursue wetland restoration to better care for these important ecosystems. While my masters focused on vernal pools in the Great Lakes region, I am most interested in peatlands and their unique vegetation and hydrology. Between restoration efforts and teaching people about wetlands and their functions I aim to tangibly improve the relationship humans have with the earth. Beyond ecology, my passion for the outdoors includes endurance sports (think running, Nordic skiing, and mountain biking), backcountry camping, and being on the water in sailboats and canoes. Growing up in Minnesota and visiting the Boundary Waters I will always love the lakes of the north woods. Becoming the wetlands lab manager at Utah State in Logan is my most recent adventure and I can't wait to learn about new ecosystems and explore the area. 
 
+While I don't currently have a project with the CDL, I enjoyed mapping wetlands in the Great Lakes using LANDFIRE data and found the CDL to be a great source of community, encouragement, and resources for growing my skills in GIS, R, and data science in general.
 
-
-
+Also on Instagram at https://www.instagram.com/a.ram.sam.sam/.
 
 
 

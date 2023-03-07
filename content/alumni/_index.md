@@ -19,9 +19,13 @@ title: CDL Alumni
 
 - *Cassidy Downing* 
 
+- *Chris Eckerson*
+
 - *Mathurin Gagnon* 
 
 - *Emma Lusting* 
+
+- {{< staticref "author/stacey-marion/" >}}Stacey Marion{{< /staticref >}}
 
 - *Avery Merrit* 
 

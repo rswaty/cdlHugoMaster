@@ -2,7 +2,7 @@
 # Display name
 title: Stacey Marion
 superuser: false
-user_groups: ["Mentors"]
+user_groups: 
 
 
 # Role/position/tagline
