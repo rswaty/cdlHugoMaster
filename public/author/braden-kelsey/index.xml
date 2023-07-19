@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Braden Kelsey | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/braden-kelsey/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/braden-kelsey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Braden Kelsey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/braden-kelsey/avatar_hu1b0c941e749e9a99b16414e1453bce7e_16404_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Braden Kelsey</title>
+      <link>https://cdl-testing-site.netlify.app/author/braden-kelsey/</link>
+    </image>
+    
+  </channel>
+</rss>

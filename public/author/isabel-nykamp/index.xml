@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabel Nykamp | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/isabel-nykamp/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/isabel-nykamp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabel Nykamp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/isabel-nykamp/avatar_hu86a7e91207b4ff9e2a5e73f0ff84b741_20922_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Isabel Nykamp</title>
+      <link>https://cdl-testing-site.netlify.app/author/isabel-nykamp/</link>
+    </image>
+    
+  </channel>
+</rss>

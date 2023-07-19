@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassie Stitzman | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/cassie-stitzman/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/cassie-stitzman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cassie Stitzman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/cassie-stitzman/avatar_hu22bfc805187c8a1b786e4049052238b0_18678_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cassie Stitzman</title>
+      <link>https://cdl-testing-site.netlify.app/author/cassie-stitzman/</link>
+    </image>
+    
+  </channel>
+</rss>

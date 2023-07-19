@@ -23,6 +23,14 @@ title: CDL Alumni
 
 - *Mathurin Gagnon* 
 
+- {{< staticref "author/robyn-holmes/" >}}Robyn Holmes{{< /staticref >}}
+
+- {{< staticref "author/braden-kelsey/" >}}Braden Kelsey{{< /staticref >}}
+
+- {{< staticref "author/lea-kemle/" >}}Lea Kemle{{< /staticref >}}
+
+- {{< staticref "author/rhayna-lillie/" >}}Rhayna Lillie{{< /staticref >}}
+
 - *Emma Lusting* 
 
 - {{< staticref "author/stacey-marion/" >}}Stacey Marion{{< /staticref >}}
@@ -34,6 +42,8 @@ title: CDL Alumni
 - *Laura Roncal*
 
 - {{< staticref "author/laura-slavsky/" >}}Laura Slavsky{{< /staticref >}}
+
+- {{< staticref "author/cassie-stitzman/" >}}Cassie Stitzman{{< /staticref >}}
 
 - {{< staticref "author/madeleine-tango/" >}}Maddie Tango{{< /staticref >}}
 
