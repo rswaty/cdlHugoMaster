@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Mezera | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/alex-mezera/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/alex-mezera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Mezera</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/alex-mezera/avatar_hua26f45f3fe8c8b6b13bbd2b916f0fed4_659368_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Alex Mezera</title>
+      <link>https://cdl-testing-site.netlify.app/author/alex-mezera/</link>
+    </image>
+    
+  </channel>
+</rss>
