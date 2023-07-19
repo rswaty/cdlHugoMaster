@@ -58,7 +58,7 @@ email: ""
 highlight_name: true
 ---
 
-Isabel, also known as Izzy, was born and raised in Western Michigan. Growing up immersed in wooded habitats and surrounded by striking water bodies, she fell in love with Michigan's aquatic habitats. She graduated from Calvin University of Grand Rapids in December of 2022 with honors and is now pursueing a masters degree through the Harte Research Institute at Texas A&M University-Corpus Christi.  In her free time, Izzy likes to explore new trails, knit, read, and get coffee with friends.  
+Isabel, also known as Izzy, was born and raised in Western Michigan. Growing up immersed in wooded habitats and surrounded by striking water bodies, she fell in love with Michigan's aquatic habitats. She graduated from Calvin University of Grand Rapids in December of 2022 with honors and is now pursuing a masters degree through the Harte Research Institute at Texas A&M University-Corpus Christi.  In her free time, Izzy likes to explore new trails, knit, read, and get coffee with friends.  
 
 Learn more at https://www.linkedin.com/in/isabel-latvaitis-nykamp-5344b8201/
 
