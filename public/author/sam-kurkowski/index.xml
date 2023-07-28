@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Kurkowski | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/sam-kurkowski/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/sam-kurkowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Kurkowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/sam-kurkowski/avatar_huf73fe946f69ad8e0e62c1e53f6665a0d_631375_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sam Kurkowski</title>
+      <link>https://cdl-testing-site.netlify.app/author/sam-kurkowski/</link>
+    </image>
+    
+  </channel>
+</rss>

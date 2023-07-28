@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myles Walimaa | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/myles-walimaa/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/myles-walimaa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myles Walimaa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/myles-walimaa/avatar_huc0ca79722a891e1f4ba1b7c46eaeaa86_115015_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Myles Walimaa</title>
+      <link>https://cdl-testing-site.netlify.app/author/myles-walimaa/</link>
+    </image>
+    
+  </channel>
+</rss>

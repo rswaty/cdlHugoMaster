@@ -2,7 +2,7 @@
 # Display name
 title: Sam Kurkowski
 superuser: false
-user_groups: ["Members"]
+user_groups: ["Mentors"]
 
 
 # Role/position/tagline
