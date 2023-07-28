@@ -2,7 +2,7 @@
 # Display name
 title: Braden Kelsey
 superuser: false
-user_groups: ["Members"]
+user_groups: 
 
 # Role/position/tagline
 role: Author

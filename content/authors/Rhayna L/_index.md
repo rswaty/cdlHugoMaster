@@ -2,7 +2,7 @@
 # Display name
 title: Rhayna Lillie
 superuser: false
-user_groups: ["Members"]
+user_groups:
 
 
 # Role/position/tagline

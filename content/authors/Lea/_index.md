@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Lea Kemle
+title: 
 superuser: false
-user_groups: ["Members"]
+user_groups: 
 
 
 # Role/position/tagline

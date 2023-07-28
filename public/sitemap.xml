@@ -20,6 +20,7 @@
     <loc>https://cdl-testing-site.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://cdl-testing-site.netlify.app/project/braden/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,6 +30,8 @@
     <loc>https://cdl-testing-site.netlify.app/project/fsc/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
+=======
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
     <loc>https://cdl-testing-site.netlify.app/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -112,13 +115,21 @@
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/admin/</loc>
   </url><url>
+    <loc>https://cdl-testing-site.netlify.app/author/</loc>
+  </url><url>
     <loc>https://cdl-testing-site.netlify.app/about/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/abril-belgara-andrew/</loc>
   </url><url>
+<<<<<<< HEAD
     <loc>https://cdl-testing-site.netlify.app/author/alice-stoff/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/project/alumniprofilemt/</loc>
+=======
+    <loc>https://cdl-testing-site.netlify.app/author/alex-mezera/</loc>
+  </url><url>
+    <loc>https://cdl-testing-site.netlify.app/author/alice-stoff/</loc>
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/braden-kelsey/</loc>
   </url><url>
@@ -128,6 +139,11 @@
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/chris-eckerson/</loc>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>https://cdl-testing-site.netlify.app/project/</loc>
+  </url><url>
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
     <loc>https://cdl-testing-site.netlify.app/dei/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/erin-matula/</loc>
@@ -140,13 +156,14 @@
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/isabel-nykamp/</loc>
   </url><url>
+<<<<<<< HEAD
     <loc>https://cdl-testing-site.netlify.app/author/katie-bell/</loc>
   </url><url>
+=======
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
     <loc>https://cdl-testing-site.netlify.app/author/keith-phelps/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/laura-slavsky/</loc>
-  </url><url>
-    <loc>https://cdl-testing-site.netlify.app/author/lea-kemle/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/madeleine-tango/</loc>
   </url><url>
@@ -162,14 +179,20 @@
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/rhayna-lillie/</loc>
   </url><url>
+<<<<<<< HEAD
     <loc>https://cdl-testing-site.netlify.app/project/uncompahgre/</loc>
   </url><url>
+=======
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
     <loc>https://cdl-testing-site.netlify.app/author/robyn-holmes/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/author/sam-kurkowski/</loc>
   </url><url>
+<<<<<<< HEAD
     <loc>https://cdl-testing-site.netlify.app/project/lf-wetlands/</loc>
   </url><url>
+=======
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
     <loc>https://cdl-testing-site.netlify.app/author/stacey-marion/</loc>
   </url><url>
     <loc>https://cdl-testing-site.netlify.app/updates/</loc>

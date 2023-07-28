@@ -7,7 +7,11 @@
     <description>Isabel Nykamp</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
     <image>
+<<<<<<< HEAD
       <url>https://cdl-testing-site.netlify.app/author/isabel-nykamp/avatar_hu86a7e91207b4ff9e2a5e73f0ff84b741_20922_270x270_fill_q75_lanczos_center.jpg</url>
+=======
+      <url>https://cdl-testing-site.netlify.app/author/isabel-nykamp/avatar_hu9269ef79e043af3c48a2c26f6d8e191d_2369811_270x270_fill_q75_lanczos_center.jpg</url>
+>>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
       <title>Isabel Nykamp</title>
       <link>https://cdl-testing-site.netlify.app/author/isabel-nykamp/</link>
     </image>

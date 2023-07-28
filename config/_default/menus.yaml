@@ -14,7 +14,7 @@ main:
     url: about/
     weight: 5
   - name: Projects
-    url: '#projects'
+    url: project/
     weight: 40
   - name: Alumni
     url: alumni/
