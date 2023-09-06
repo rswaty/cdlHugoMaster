@@ -4,119 +4,6 @@
     <title>Conservation Data Lab Projects | Conservation Data Lab</title>
     <link>https://cdl-testing-site.netlify.app/project/</link>
       <atom:link href="https://cdl-testing-site.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-    <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright><lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cdl-testing-site.netlify.app/media/icon_hu2cfcded8cc98d5c024f8197d8160670e_19055_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://cdl-testing-site.netlify.app/project/</link>
-    </image>
-    
-    <item>
-      <title>CDL brings in a writer, Braden Kelsey to develop content</title>
-      <link>https://cdl-testing-site.netlify.app/project/braden/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://cdl-testing-site.netlify.app/project/braden/</guid>
-      <description>&lt;p&gt;Braden is a copy writer, educator and intern with the CDL.  That is, he is not an ecologist.  That said, Braden jumped in fearlessly, embracing our lingo, geeky nature and odd thoughts on expressing ourselves.  I bet he is feeling a &amp;lsquo;disturbance in the force&amp;rsquo; as I write, knowing I am sloppy with spelliiing, word choices and grammar.&lt;/p&gt;
-&lt;p&gt;As an undergraduate writing major Braden served as the editor-in-chief of the college literary magazine, tutored countless students in the use of semi-colons and much more, and immersed himself in books.  He told me stories of the underbelly of his home, Terra Haute, IN, of falling off a cliff then living to tell about it, of his mom a hospice nurse who exposed him to death and all that surrounds it.&lt;/p&gt;
-&lt;p&gt;When I invited Braden up to the extremely rural Upper Peninsula of Michigan where I live without a real plan of where to house or feed him, he didn&amp;rsquo;t hesitate.  Quite the opposite-he rushed in.  He experienced black flies, mosquitoes, beach flies, hippies, a jig saw, the joys of flushing a toilet with water from a bucket, and much more.&lt;/p&gt;
-&lt;p&gt;Braden updated many profiles and contributed our feature piece on wetlands mapping.  He has tons of notes from interviewing nearly everyone and we look forward to more of his wise words!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LANDFIRE-Powered Landscape Assessment Guidance</title>
-      <link>https://cdl-testing-site.netlify.app/project/fsc/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://cdl-testing-site.netlify.app/project/fsc/</guid>
-      <description>&lt;p&gt;Assessing the condition of ecosystems and disturbance regimes across large landscapes is challenging, but necessary.  In an attempt to ease the entry to this work, particularly for forest managers who are aiming for Forest Stewardship Council (&lt;a href=&#34;https://fsc.org/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fsc.org/en&lt;/a&gt;) certification we are developing and testing tutorials that would assist in answering some key ecosystem questions such as:
-Which ecosystems have been most changed/converted between historical and current time periods?
-What where the historical disturbance regimes for a landscape
-Which structural stages are over/underrepresented on the landscape?&lt;/p&gt;
-&lt;p&gt;Answering these and other similar questions is possible for lands in the United States with LANDFIRE data (&lt;a href=&#34;https://www.landfire.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.landfire.gov&lt;/a&gt;), but is not always straightforward-we hope to assist with that.&lt;/p&gt;
-&lt;p&gt;CDL members include: Keith Phelps &amp;amp; Stacey Marion&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alumni Profile of Maddie Tango</title>
-      <link>https://cdl-testing-site.netlify.app/project/alumniprofilemt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cdl-testing-site.netlify.app/project/alumniprofilemt/</guid>
-      <description>&lt;p&gt;No less talented singer than excellent environmentalist, Maddie Tango joint majored in environmental studies and biology at Middlebury College in Vermont which culminated in a degree in conservation biology alongside a minor in geography. That is to say, she is a really good singer. Maddie spent time living in Barcelona, where she joined a research group in utilizing a drone and its attached camera to supplement satellite data in recording land cover change. She contributed by using the programming language R to automate their data processing to more seamlessly combine the drone’s locational data with the camera’s topography data. Alongside the CDL’s Cheerleader-in-Chief, she looked into carbon programs which encourage people to keep carbon on the ground. They wanted to see a map which showed carbon stacks in non-white communities, so they created a project which combined R, Arc GIS, census demographic data, and LANDFIRE data related to forest types and carbon stacks to create maps for North Carolina, South Carolina, and Georgia. She also underwent an 11-week remote internship working with the Fish and Wildlife Service’s Portland regional office, where she generated a geo-database centered on pollinator habitat restoration efforts and related demographic data in the western U.S., communicating with partner organizations and state agencies to create a dashboard map. During the pandemic, she independently tracked rivers and streams throughout Massachusetts using a survey app, recording signs of degradation and human impact. She also spent time as an usher/house manager at the college’s art center where she garnered experience in training people and communication. Currently, Maddie serves as a team-lead in one of NASA’s DEVELOP internships centered on environmental justice, where her and an entirely remote team proficient in everything from architecture to history and geography look at flood risk in Milwaukee using soil characteristic and land cover data.
-Of the CDL she has to say, “They’re master networkers; I still get emails from Randy finding people I should chat with. They’re a lab, but more of a community learning from each other.”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Screen shot of carbon dashboard. Development led by Maddie Tango.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cdl-testing-site.netlify.app/img/dash.JPG&#34; alt=&#34;Check the dashboard out &amp;lt;a href=&amp;#34;https://rswaty.github.io/carbonBlockGroups/dash.html&amp;#34; target=&amp;#34;_blank&amp;#34; rel=&amp;#34;noopener&amp;#34;&amp;gt;here&amp;lt;/a&amp;gt;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rhayna Lillie presents to LANDFIRE leadership</title>
-      <link>https://cdl-testing-site.netlify.app/project/uncompahgre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cdl-testing-site.netlify.app/project/uncompahgre/</guid>
-      <description>&lt;p&gt;A key, if not less-than-exciting step in conservation planning is conducting a &lt;a href=&#34;https://www.conservationbydesign.org/our-approach/identify-challenges-and-goals/conduct-a-situation-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;situation analysis&amp;rsquo;&lt;/a&gt;.  In this step you build understanding of the area where you are doing your work.  One component is often mapping and comparing ecosystems past and present.  Rhayna Lillie was asked to do this to support land management in the Uncompahgre region of southwestern Colorado.  Sound simple enough, but doing this can be extremely time consuming, and difficult.  Why? first there&amp;rsquo;s the &amp;ldquo;apples and oranges&amp;rdquo; issue where ecologists might have multiple names for the same ecosystem.  Second, technical difficulties such as your software locking up, or code producing strange outputs.  Third, there is no cookbook or recipe for this.  Rhayna Lillie fearlessly jumped into this morass and not only made beautiful maps and charts, but also excellently delivered a well-prepared presentation to leaders of the &lt;a href=&#34;https://landfire.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANDFIRE&lt;/a&gt; program.&lt;/p&gt;
-&lt;p&gt;To conduct this initial assessment, Rhayna first downloaded data sets, some of which have &amp;rsquo;novel&amp;rsquo; names such as Biophysical Settings (maps dominant vegetation systems that were on the landscape prior to European colonization). Second she worked in ArcGIS to process the data, making sure that it was clipped and projected properly.  Then came one of many challenges: mapping the data.  The details that go into a beautiful (and useful map) are (if well done) never noticed by the viewer.  Rhayna spent many hours working with colors, the legend and formatting to make her maps sparkle.  In addition to mapping the spatial data, she did other processing that allowed her to compare historical to current vegetation.  She exported the data from the GIS software, then imported it into &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; where she wrangled the data, made charts AND created her slideshow for presentation.  How many people can use R to build a presentation?&lt;/p&gt;
-&lt;p&gt;In late August, 2022 Rhayna presented her work to Jim Smith and Henry Bastion of the LANDFIRE Business Lead Group.  This group controls the direction and budgets for the LANDFIRE program!  More personally for me Jim is my supervisor, and Henry the funder of our team among other things.  Rhayna nailed her presentation.  She was very well prepared, had a great script and addressed questions super professionally.  We are now working to schedule a time for her to present to Bureau of Land Management staff who manage the Uncompahgre.  There she hopes to contribute to their work, and learn more about specific challenges they face.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bar charts created by Rhayna Lillie in R depicting under and over representation of succession classes for selected ecosystems.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cdl-testing-site.netlify.app/img/bars.png&#34; alt=&#34;Bar charts created by Rhayna Lillie in R&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sam Kurkowski Maps Wetlands across Minnesota, Wisconsin, and Michigan</title>
-      <link>https://cdl-testing-site.netlify.app/project/lf-wetlands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cdl-testing-site.netlify.app/project/lf-wetlands/</guid>
-      <description>&lt;p&gt;Sam, a graduate student and teaching assistant in a wetlands course at Michigan Tech, has undertaken the project of providing detailed wetland maps for Minnesota, Wisconsin, and Michigan. Wetlands—lands transitional between terrestrial and aquatic systems (that is to say, wet-lands)—comprise around 40% of the Upper Peninsula (U.P.). They typically have a high water table, with water present on the surface or saturating the soil. The amount of water present, soil chemistry, and water flow play the most significant roles in a wetland’s classification—of which there are many, each with their own ecosystems and vegetation. Some have peat bogs and floating mats, while others are dominated by black ash and cedar trees—some are open plains, and some dense forests.&lt;/p&gt;
-&lt;p&gt;Wetlands’ role in the ecosystems can’t be overstated—they’re irreplaceable. They improve water quality, serve as protection against flooding, assist in erosion control, and provide housing for thousands of animal and plant species. They are vital for biodiversity, and are an important subject for fire managers, conservationists, and hydrologists—to name a few. For this reason, the accurate mapping of wetland locations and types is high-priority, and necessary in monitoring their changes over time. However, mapping wetlands is no easy task.&lt;/p&gt;
-&lt;p&gt;Before getting into the process of mapping, one has to be familiar with LANDFIRE data. LANDFIRE is a federal program that maps vegetation and fire/fuels for all lands in the U.S. It serves as a unified effort between the United States Department of Interior, the USDA Forest Service, and the Nature Conservancy to create consistent and comprehensive datasets that aid in strategic fire and resource management planning and analysis. Sam’s first step in mapping wetlands was to use LANDFIRE wetland data and translate it into charts to aid in review. She then transferred the LANDFIRE data into ArcGIS Pro (a geographical information mapping tool) and designated the attributes specific to wetlands. Next she took the nationwide sets and narrowed them down to the three states—identifying sample wetland areas within them that would best serve as finely-detailed maps and demonstrate the wetlands’ current and historical Biophysical Settings. However, often times there are still difficulties in distinguishing things on a map, such as wetland types, due to insufficient data or too many depicted variables.&lt;/p&gt;
-&lt;p&gt;There are over 33 types of wetlands in the Upper Peninsula alone, which proves a challenging aspect when creating a comprehensive map of three states. Aside from having to designate colors to represent each individual type in a distinguishable manner, placing distinct borders between areas that interconnect proves difficult—especially considering how the land historically changes due to altered hydrology, and is constantly being reclassified as a result. To combat this, Sam made design decisions that would best emphasize each individual wetland type—a dark background, bright state borders, and stripped everything but the essentials, focusing on historical and current locations without mapping their changes. The result is a broad, digestible map which is complimented and emphasized by smaller, detailed sample area maps.&lt;/p&gt;
-</description>
-    </item>
-    
-=======
     <description>Conservation Data Lab Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
     <image>
@@ -125,6 +12,5 @@ Of the CDL she has to say, “They’re master networkers; I still get emails fr
       <link>https://cdl-testing-site.netlify.app/project/</link>
     </image>
     
->>>>>>> 5031cd0ac283ebf50027cce90c08b19b8743170f
   </channel>
 </rss>
