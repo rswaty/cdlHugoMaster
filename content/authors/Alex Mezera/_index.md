@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alex is a student at UW-Madison currently studying computer science with an interest in the applications of data science, remote sensing, and machine learning for forest management.
+bio: Alex Mezera
 
 # Interests to show in About widget
 interests:
@@ -55,7 +55,7 @@ social:
 highlight_name: true
 ---
 
-
+Alex is a student at UW-Madison currently studying computer science with an interest in the applications of data science, remote sensing, and machine learning for forest management.
 
 
 

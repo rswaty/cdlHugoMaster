@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Harrison | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/andy-harrison/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/andy-harrison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andy Harrison</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/andy-harrison/avatar_huaa6694f030968b362153f2b2e5dbf300_101158_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Andy Harrison</title>
+      <link>https://cdl-testing-site.netlify.app/author/andy-harrison/</link>
+    </image>
+    
+  </channel>
+</rss>
