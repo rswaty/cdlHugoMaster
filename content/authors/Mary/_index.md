@@ -18,11 +18,11 @@ bio: Mary Kelly
 
 # Interests to show in About widget
 interests:
-- GIS
+- GIS/Remote sensing
 - Data Analysis
-- Climate Adaptation and Mitigation
 - Agriculture and Food Systems
-- Public Policy
+- Forests
+- Wetlands
 - Running/biking/hiking/skiing
 - French
 
