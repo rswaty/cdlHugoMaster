@@ -10,7 +10,7 @@ role: GIS Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HDR Inc.
+- name: Environmental Science Associates
   url: 
 
 # Short bio (displayed in user profile at end of posts)
