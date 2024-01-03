@@ -40,11 +40,11 @@ Major projects included:
 
 knitr::include_graphics("izzy_map.JPG")
 ```
-* Robyn Holmes delivered a presentation titled "Searching for Goldilocks: Exploring remotely sensed data products in the context of beaver and wildfire" at a LANDFIRE [Open Office Hour](https://www.youtube.com/watch?v=7ztYoqoooMU&ab_channel=LANDFIREvideo). Spoiler alert(s): mid-resolution data (10m pixel size) seemed to work best, and beaver dams do appear to influence wildfire behavior (supporting work by Fairfax and Whittle, 2020, and others).
-* Isabel (Izzy) Nykamp took on a deceptively complicated project: making maps of demogrpahic variables for the entire Appalachian Region, which reaches from Alabama into Nova Scotia.  Challenges included: 1) data differences between the US and Canada, requirement to meet The Nature Conservancy's cartographic standards in QGIS (standards developed with ArcGIS in mind), and figuring out exactly which datasets to use, when there are many.  She is a co-author on an internal report, "Equity in the Appalachians:
-Learning from ourselves to advance conservation
+* [Robyn Holmes](https://www.linkedin.com/in/rnholmes/) delivered a presentation titled "Searching for Goldilocks: Exploring remotely sensed data products in the context of beaver and wildfire" at a LANDFIRE [Open Office Hour](https://www.youtube.com/watch?v=7ztYoqoooMU&ab_channel=LANDFIREvideo). Spoiler alert(s): mid-resolution data (10m pixel size) seemed to work best, and beaver dams do appear to influence wildfire behavior (supporting work by Fairfax and Whittle, 2020, and others).
+* [Isabel (Izzy) Nykamp](https://conservationdatalab.org/author/isabel-nykamp/) took on a deceptively complicated project: making maps of demographic variables for the entire Appalachian Region, which reaches from Alabama into Nova Scotia.  Challenges included: 1) data differences between the US and Canada, requirement to meet The Nature Conservancy's cartographic standards in QGIS (standards developed with ArcGIS in mind), and figuring out exactly which datasets to use, when there are many.  She is a co-author on an internal report, "Equity in the Appalachians: Learning from ourselves to advance conservation
 equitably at scale across the Appalachians" by Smith et al (2023).
-* A continuing goal of the CDL is to train members in key conservation tech, including coding in R.  Members Myles Walimaa and Garrett Knowlton joined Randy to develop and delivered a fall R training.  This was a first for the CDL, and resulted (as usual :) ) the teachers learning as much as the students.  This process will continue to evolve as we strive to fit learning into members super busy lives.
+* A continuing goal of the CDL is to train members in key conservation skills, including coding in R.  CDL mentors [Myles Walimaa](https://conservationdatalab.org/author/myles-walimaa/) and [Garrett Knowlton](https://conservationdatalab.org/author/garrett-knowlton-he/him/) joined Randy to develop a training course for R that was delivered in the fall.  This was a first for the CDL, and in the end the teachers learned as much as the students (as usual).  This process will continue to evolve as we strive to fit learning into members' super busy lives.
+* [Alex Mezera](https://conservationdatalab.org/author/alex-mezera/), [Rhayna Lillie](https://conservationdatalab.org/author/rhayna-lillie/), Josh Muchner and [Garrett Knowlton](https://conservationdatalab.org/author/garrett-knowlton-he/him/) were responsible for delivery of several web reports for the Southern Rockies Fire Science Network (SRFSN), such as [this one](https://thenatureconservancy.github.io/nnmpla/) for the Northern New Mexico Plateau Subregion completed by Alex.  The work required knowledge of QGIS, GitHub, R and R-markdown files.  The web reports will be incorporated into the SRFSN website in 2024.
 
 
 ```{r fig-ls, echo=FALSE, fig.cap="Map of historical late-succession habitat concentration by Mary Kelly.", fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=TRUE}
@@ -53,8 +53,7 @@ knitr::include_graphics("historicOldGrowth.jpg")
 ```
 
 
-* Alex Mezera, Rhayna Lillie, Josh Muchner and Garrett Knowlton were responsible for delivery of several web reports for the Southern Rockies Fire Science Network (SRFSN), such as [this one](https://thenatureconservancy.github.io/nnmpla/) for the Northern New Mexico Plateau Subregion completed by Alex.  The work required knowledge of QGIS, GitHub, R and R-markdown files.  The web reports will be incorporated into the SRFLN website in 2024.
-* Mary Kelly was curious about late-succession habitat, past and present for the coastal region of Oregon.  Using [LANDFIRE](https://landfire.gov/) data, ArcGIS pro and R, she first developed and delivered a presentation at the 2023 Society for Conservation GIS meetings in August, 2023.  Additionally, she has drafted a tutorial to be published in 2024 (pending edits by Randy).
+* [Mary Kelly](https://conservationdatalab.org/author/mary-kelly/) was curious about late-succession habitat, past and present for the coastal region of Oregon.  Using [LANDFIRE](https://landfire.gov/) data, ArcGIS pro and R, she first developed and delivered a presentation at the 2023 Society for Conservation GIS meetings in August.  Additionally, she has drafted a tutorial to be published in 2024 (pending edits by Randy).
 
 
 **Selected ongoing projects**
@@ -68,11 +67,11 @@ knitr::include_graphics("cup_ls.JPG")
 ```
 
 
-* Silas  Pickhardt, Liv Maynard, Nick Burns and Trinity Hinshaw were recruited by the Marquette County (MI) Planning Commission to build dashboard presenting current ecosystem, wildfire exposure risk and late-succession habitat for the central Upper Peninsula of Michigan. 
+* [Silas  Pickhardt](https://conservationdatalab.org/author/silas-pickhardt/), [Liv Maynard](https://www.linkedin.com/in/olivia-maynard-6bb875228/), [Nick Burns](https://www.linkedin.com/in/nicholasburns9047/) and [Trinity Hinshaw](https://www.linkedin.com/in/trinity-hinshaw-88b217225/) were recruited by the Marquette County (MI) Planning Commission to build a dashboard presenting current ecosystem, wildfire exposure risk and late-succession habitat for the central Upper Peninsula of Michigan. 
 
-* Eleanor Gagnon will be building a web report depicting ecological fire management needs for Missouri in support of The Nature Conservancy an other land management partners there. 
+* [Eleanor Gagnon](https://www.linkedin.com/in/eleanorgagnon/) will be building a web report depicting ecological fire management needs for Missouri in support of The Nature Conservancy an other local land management partners. 
 
-* Emily Mydlowski is collaborating with Melanie Rudolf of The Nature Conservancy's Arkansas chapter to update their fire management monitoring data collection forms, wrangle formerly collected data and to develop a GitHub hosted web reporting platform.
+* [Emily Mydlowski](https://www.linkedin.com/in/emily-mydlowski-226680b0/) is collaborating with Melanie Rudolf of The Nature Conservancy's Arkansas chapter to update their fire management monitoring data collection forms, wrangle formerly collected data and to develop a GitHub hosted web reporting platform.
 
 ## Future directions
 
