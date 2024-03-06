@@ -2,7 +2,7 @@
 # Display name
 title: Andy Harrison
 superuser: false
-user_groups: ["Members"]
+user_groups: 
 
 
 # Role/position/tagline

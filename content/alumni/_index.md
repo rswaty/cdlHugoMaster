@@ -23,6 +23,8 @@ title: CDL Alumni
 
 - *Mathurin Gagnon* 
 
+- {{< staticref "author/andy-harrison/" >}}Andy Harrison{{< /staticref >}}
+
 - {{< staticref "author/robyn-holmes/" >}}Robyn Holmes{{< /staticref >}}
 
 - {{< staticref "author/braden-kelsey/" >}}Braden Kelsey{{< /staticref >}}

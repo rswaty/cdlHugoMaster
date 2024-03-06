@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Halle Johnson | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/halle-johnson/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/halle-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Halle Johnson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/halle-johnson/avatar_hu86523e3c19fd375b11f2f270fec539f7_8288_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Halle Johnson</title>
+      <link>https://cdl-testing-site.netlify.app/author/halle-johnson/</link>
+    </image>
+    
+  </channel>
+</rss>

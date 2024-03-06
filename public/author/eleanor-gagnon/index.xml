@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleanor Gagnon | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/eleanor-gagnon/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/eleanor-gagnon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eleanor Gagnon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/eleanor-gagnon/avatar_hucd791773902fa89dce04c7b61200ecd9_1902955_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Eleanor Gagnon</title>
+      <link>https://cdl-testing-site.netlify.app/author/eleanor-gagnon/</link>
+    </image>
+    
+  </channel>
+</rss>
