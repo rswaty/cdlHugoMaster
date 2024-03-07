@@ -37,6 +37,8 @@ title: CDL Alumni
 
 - {{< staticref "author/stacey-marion/" >}}Stacey Marion{{< /staticref >}}
 
+- {{< staticref "author/alex-mezera/" >}}Alex Mezera{{< /staticref >}}
+
 - *Avery Merrit* 
 
 - *Julia Olsen* 
@@ -46,6 +48,8 @@ title: CDL Alumni
 - {{< staticref "author/laura-slavsky/" >}}Laura Slavsky{{< /staticref >}}
 
 - {{< staticref "author/cassie-stitzman/" >}}Cassie Stitzman{{< /staticref >}}
+
+- {{< staticref "author/alice-stoff/" >}}Alice Stoff{{< /staticref >}}
 
 - {{< staticref "author/madeleine-tango/" >}}Maddie Tango{{< /staticref >}}
 
