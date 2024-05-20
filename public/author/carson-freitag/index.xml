@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carson Freitag | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/carson-freitag/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/carson-freitag/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carson Freitag</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/carson-freitag/avatar_hub4fda56bcb08bef6f1712849bdf8f881_38458_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Carson Freitag</title>
+      <link>https://cdl-testing-site.netlify.app/author/carson-freitag/</link>
+    </image>
+    
+  </channel>
+</rss>
