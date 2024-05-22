@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erick Joel Pimienta Tovar | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/erick-joel-pimienta-tovar/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/erick-joel-pimienta-tovar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erick Joel Pimienta Tovar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/erick-joel-pimienta-tovar/avatar_hue286bcb7840d46efd41440c399c98b88_199600_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Erick Joel Pimienta Tovar</title>
+      <link>https://cdl-testing-site.netlify.app/author/erick-joel-pimienta-tovar/</link>
+    </image>
+    
+  </channel>
+</rss>
