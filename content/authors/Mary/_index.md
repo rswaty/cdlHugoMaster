@@ -2,7 +2,7 @@
 # Display name
 title: Mary Kelly
 superuser: false
-user_groups: ["Members"]
+user_groups: ["Mentors"]
 
 
 # Role/position/tagline
@@ -10,7 +10,7 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Northern Michigan University
+- name: University of Michigan
   url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +32,8 @@ education:
   - course: Bachelor's in Environmental Science & French
     institution: Northern Michigan University
     year: 
+  - course: Master's degree in GIS and data analytics (expected spring 2026)
+    institution: University of Michigan
 
 
 # Social/Academic Networking
@@ -57,7 +59,7 @@ email: ""
 highlight_name: true
 ---
 
-Mary is a senior undergraduate student at Northern Michigan University (NMU), double-majoring in Environmental Science (natural resources emphasis) and French. Entering her final year of college, Mary leads two NMU student organizations, is an alumna of the NMU Student Leader Fellowship Program, and has interned in the federal government and non-profit conservation spaces. In the CDL, Mary mapped old growth forests in Oregon, looking at Biophysical Settings and historical tree data to determine which areas could have been classified as old growth if not for certain circumstances. Her favorite part of the CDL is being part of a community of people who care for the well-being of the environment. After graduation in May, Mary hopes to attend graduate school for a Master’s degree or start working full-time.
+Mary graduated from Northern Michigan University (NMU), double-majoring in Environmental Science (natural resources emphasis) and French. Entering her final year of college, Mary leads two NMU student organizations, is an alumna of the NMU Student Leader Fellowship Program, and has interned in the federal government and non-profit conservation spaces. In the CDL, Mary mapped old growth forests in Oregon, looking at Biophysical Settings and historical tree data to determine which areas could have been classified as old growth if not for certain circumstances. Her favorite part of the CDL is being part of a community of people who care for the well-being of the environment. Fall of 2024 Mary entered the University of Michigan as a Master's Degree student in GIS and data analytics.
 
 
 
