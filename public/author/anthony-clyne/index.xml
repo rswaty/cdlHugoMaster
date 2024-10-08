@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Clyne | Conservation Data Lab</title>
+    <link>https://cdl-testing-site.netlify.app/author/anthony-clyne/</link>
+      <atom:link href="https://cdl-testing-site.netlify.app/author/anthony-clyne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anthony Clyne</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Conservation Data Lab 2021</copyright>
+    <image>
+      <url>https://cdl-testing-site.netlify.app/author/anthony-clyne/avatar_huc0d4377b4773f35ef942068a2eca8e75_62784_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anthony Clyne</title>
+      <link>https://cdl-testing-site.netlify.app/author/anthony-clyne/</link>
+    </image>
+    
+  </channel>
+</rss>

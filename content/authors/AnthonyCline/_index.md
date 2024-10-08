@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anthony Cline
+title: Anthony Clyne
 superuser: false
 user_groups: ["Members"]
 
@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Anthony Cline
+bio: Anthony Clyne
 
 # Interests to show in About widget
 interests:
@@ -58,7 +58,7 @@ social:
 highlight_name: true
 ---
 
-I am currently an undergraduate student at NMU beginning my masters in the fall at NMU under the Northern Forest Wildlife Research Fellowship in partnership with MDNR, studying gray and red fox distribution. Currently I work as an assistant for the Bear, Furbearer, and Small Game Specialist, and UP Wildlife Research Specialist for the MDNR. Currently I help trap and collar black bears and gray wolves for various research projects, along with other duties involving genetic surveys! I am an adrenaline junkie and compete and coach jiu jitsu in my spare time, and spend a lot of time in the woods hunting and trapping as well. 
+I am currently a Research Assistant at NMU under the Northern Forest Wildlife Research Fellowship in partnership with MDNR, studying gray and red fox distribution/occupancy. In my undergraduate career, I worked as a student assistant for the Bear, Furbearer, and Small Game Specialist, and UP Wildlife Research Specialist for the MDNR. I helped trap and collar black bears and gray wolves for various research projects. I am an adrenaline junkie and compete and coach jiu jitsu in my spare time, and spend a lot of time in the woods hunting and trapping as well.
 
 
 
